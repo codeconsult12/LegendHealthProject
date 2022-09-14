@@ -1,0 +1,24 @@
+{
+    "id": "46f71ec3-1fd6-41ae-9f01-edf3b8550d98",
+    "name": "LegendHealthProject",
+    "publisher": "Default publisher",
+    "version": "1.0.0.58",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "18.0.0.0",
+    "idRanges": [{
+        "from": 50100,
+        "to": 50149
+    }],
+    "contextSensitiveHelpUrl": "https://LegendHealthProject.com/help/",
+    "showMyCode": true,
+    "runtime": "7.0"
+}
